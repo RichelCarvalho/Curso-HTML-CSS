@@ -1,0 +1,22 @@
+body{
+            background-color: black;
+        }
+        h1, p{
+            color: white;
+            font-family: sans-serif;
+            text-align: center;
+        }
+        h2{
+            color: white;
+            font-family: sans-serif;
+            text-align: center;
+            background-color: grey;
+        }
+        .seta{
+            display: flex;
+            justify-content: center;
+        }
+        .video{
+            display: flex;
+            justify-content: center;
+        }
